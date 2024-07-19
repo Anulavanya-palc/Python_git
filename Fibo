@@ -1,8 +1,10 @@
 #include <stdio.h>
 int main() {
 
-  int i, n;
-
+  int i, n, m, o=0;
+  if(o){
+    printf("hellooo");
+  }
   // initialize first and second terms
   int t1 = 0, t2 = 1;
 
