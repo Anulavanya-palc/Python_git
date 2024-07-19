@@ -1,9 +1,12 @@
 #include <stdio.h>
 int main() {
 
-  int i, n, m, o=0;
+  int i, n, m, o=0, P=1;
   if(o){
     printf("hellooo");
+  }
+ if(!P){
+    printf("krishiii");
   }
   // initialize first and second terms
   int t1 = 0, t2 = 1;
